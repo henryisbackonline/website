@@ -9,10 +9,9 @@
 body {
     background-color: var(--colour-bg);
     color: var(--colour-tx);
-    max-width: 40em;
+    max-width: 650px;
     margin: 40px
     auto;
-    max-width: 650px;
     line-height: 1.6;
     font-size: 18px;
     color: #444;
