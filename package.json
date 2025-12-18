@@ -11,7 +11,7 @@
     "serve": "pnpm exec eleventy --serve --quiet"
   },
   "keywords": [],
-  "author": "",
+  "author": "henryisonline",
   "license": "ISC",
   "packageManager": "pnpm@10.26.0",
   "dependencies": {
