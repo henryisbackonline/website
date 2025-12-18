@@ -1,3 +1,11 @@
 export default async function(eleventyConfig) {
-	// Configure Eleventy
+    // eleventy config
 };
+
+export const config = {
+    dir: {
+        input: "source",
+        output: "_site",
+        includes: "_includes"
+    }
+}
