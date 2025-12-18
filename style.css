@@ -1,0 +1,54 @@
+:root {
+    --font-body: serif;
+    --font-head: sans-serif;
+    --font-code: monospace;
+    --colour-bg: #eeeeee;
+    --colour-tx: #1a1a1a;
+}
+
+body {
+    background-color: var(--colour-bg);
+    color: var(--colour-tx);
+    max-width: 40em;
+    margin: 40px
+    auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0
+    10px
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-head);
+    line-height: 1.2;
+}
+
+p {
+    font-family: var(--font-body);
+    line-height: 1.6
+}
+
+code {
+    font-family: var(--font-code);
+    font-size: 0.9em;
+}
+
+/*
+Source - https://stackoverflow.com/a
+Posted by Titus, modified by community. See post 'Timeline' for change history
+Retrieved 2025-12-18, License - CC BY-SA 3.0
+*/
+.codebox {
+    /* Below are styles for the codebox (not the code itself) */
+    border:1px solid var(--colour-tx);
+    background-color: var(--colour-bg);
+    width:300px;
+    overflow:auto;    
+    padding:10px;
+}
+.codebox code {
+    /* Styles in here affect the text of the codebox */
+    font-size:0.9em;
+}
