@@ -19,7 +19,7 @@ This means that by simply knowing some simple key combinations, you can bypass *
 4. `TAB` to the email field and begin writing the email
 	- `CTRL + B/I/U` for bold/italics/underline
 	- `CTRL + K` for hyperlinks
-5.  Once the email was drafted,`CTRL + ENTER` to send
+5.  Once the email was drafted, `CTRL + ENTER` to send
 
 This, for me, was much faster than reaching for the mouse, clicking on icons, and highlighting and applying formatting by hand. Granted, it takes practice to memorise these things, but it’s worth it for me. It makes the whole process of interacting with any computer feel more universal and more simple. I don’t feel bogged down by strange or unfamiliar UI or get stuck interpreting minimalist icons — I simply press the keys that I need, and get the job done twice as fast.
 
@@ -33,7 +33,7 @@ I’ve accidentally clicked on the wrong icon or pressed the wrong button *count
 
 In many cases, keyboard shortcuts are often just faster. If you’re someone who types a lot, it’s faster for you to work if your fingers never have to leave the keyboard. You have the option to move the cursor backward and forward through the text – or highlight it – with two- or three-key combinations, which is much faster the clicking and dragging the mouse over specific portions of text. 
 
-In Markdown, specific text formatting options have their built-in functions. `*[text]*` will *italicise* anything, and `**[text]**` formats as **bold.**`~~[text]~~` will ~~strikethrough~~ text, and `#, ##,` or `###` result in different heading levels. All this is possible with only the keyboard, and by never moving my hand off the keyboard to create this formatting, my flow of ideas and thoughts remains uninterrupted.
+In Markdown, specific text formatting options have their built-in functions. `*[text]*` will *italicise* anything, and `**[text]**` formats as **bold.** `~~[text]~~` will ~~strikethrough~~ text, and `#`, `##`, or `###` result in different heading levels. All this is possible with only the keyboard, and by never moving my hand off the keyboard to create this formatting, my flow of ideas and thoughts remains uninterrupted.
 
 Now if you’ll excuse me, I’m going to get a little strange about computers. For me, keyboard shortcuts also make me feel like I’m collaborating with the computer more than anything else. When I use the keyboard to interact with all the functions of my operating system or my programs, I feel like the computer is an extension of my brain and body, and that means I get more high-quality work done on the computer. When I use the mouse and just click at things, I just feel like I’m pointing at tasks for the computer to do and saying “Just sort that out for me, will you.” It doesn’t feel collaborative or engaging, and it certainly doesn’t lead to me producing my best work. 
 
