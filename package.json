@@ -1,0 +1,17 @@
+{
+  "name": "henryisonline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"build": "pnpm exec eleventy",
+		"make": "pnpm exec eleventy",
+		"b": "pnpm exec eleventy",
+		"start": "pnpm exec eleventy --serve --quiet",
+		"serve": "pnpm exec eleventy --serve --quiet"
+	},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.25.0"
+}
